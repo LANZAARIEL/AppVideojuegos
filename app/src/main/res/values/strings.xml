@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppTiendaVideojuegos</string>
+    <string name="lb_nom_app">Tienda de Videojuegos</string>
+    <string name="txt_registro">Registrar Videojuego:</string>
+    <string name="cod_videojuego">Código de videojuego:</string>
+    <string name="hint_cat_juego">Categoría:</string>
+    <string name="hint_titulo_juego">Título:</string>
+    <string name="hint_plataforma">Plataforma:</string>
+    <string name="hint_precio">Precio:</string>
+    <string name="btn_registrar">Registrar</string>
+</resources>
